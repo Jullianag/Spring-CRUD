@@ -20,6 +20,13 @@ Para mensagens de erros personalizadas.
 
 Projeto testado no Postman.
 
-5 - Imagens
+5 - Imagens:
+
+UML
+![UML](https://github.com/Jullianag/Spring-CRUD/blob/main/src/main/java/com/meuprojeto/animal/img/UML.png)
+
+
+SQL
+![SQL](https://github.com/Jullianag/Spring-CRUD/blob/main/src/main/java/com/meuprojeto/animal/img/codigosql.png)
 
 
